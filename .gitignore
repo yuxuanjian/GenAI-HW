@@ -1,0 +1,4 @@
+.env
+chat_storage.json
+__pycache__/
+*.py[cod]
