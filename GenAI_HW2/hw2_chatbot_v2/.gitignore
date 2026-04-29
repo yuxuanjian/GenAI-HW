@@ -1,0 +1,14 @@
+.env
+.streamlit/secrets.toml
+data/chat_storage.json
+data/structured_memory.json
+data/uploads/
+data/attachments/
+__pycache__/
+*.py[cod]
+*.log
+*.mp4
+*.mov
+*.mkv
+SYSTEM_STRUCTURE.pdf
+submission/
